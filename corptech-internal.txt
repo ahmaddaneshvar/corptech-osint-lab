@@ -1,0 +1,6 @@
+CorpTech OSINT Training Lab
+Environment: corptech.local
+Document type: Public training artifact
+Hostname: dev.corptech.local
+Hostname: backup.corptech.local
+Classification: SIMULATED — NOT REAL CONFIDENTIAL DATA
